@@ -1,0 +1,203 @@
+================================================================================
+  GOLD TRADING BOT — DAILY LEARNING REPORT
+  Date: Wednesday, June 03, 2026
+  Generated: 10:00 PM (local time)
+  Learning Cycles Completed: 68
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  1. EXECUTIVE SUMMARY
+────────────────────────────────────────────────────────────────────────────────
+
+  Gold Price: $4464.60
+  Session Change: $+25.02 (+0.56%)
+  Multi-TF Consensus: LEAN_BEARISH
+  Alignment Score: -0.2
+  Macro Regime: DEFLATION_FEAR
+
+  Trades Today: 4
+  Learning Cycles: 68
+
+────────────────────────────────────────────────────────────────────────────────
+  2. PREDICTIONS — What Bot Tried Today
+────────────────────────────────────────────────────────────────────────────────
+
+  Active Predictions: 0
+  Total Resolved: 4
+  Win Rate: 100.0% (4W / 0L)
+  Total PnL: $+24.36
+  Avg PnL per trade: $+6.09
+
+  Per-Strategy Accuracy:
+  Strategy                                   W   L    WR%
+  -------------------------------------------------------
+  bearish_obv_divergence                     1   0 100.0% [learning]
+  stoch_overbought_in_downtrend              1   0 100.0% [learning]
+  bb_squeeze_bearish_breakout                3   0 100.0% [learning]
+  ema_ribbon_bull_pullback                   1   0 100.0% [learning]
+  macd_bearish_cross_trend                   1   0 100.0% [learning]
+  multi_tf_bearish_confluence                7   1  87.5% [TRUSTED]
+  rsi_bb_overbought_reversal                 0   2   0.0% [learning]
+  resistance_rejection                       0   4   0.0% [learning]
+  stoch_oversold_in_uptrend                  0   1   0.0% [learning]
+
+────────────────────────────────────────────────────────────────────────────────
+  3. CROSS-MARKET CORRELATIONS FOUND TODAY
+────────────────────────────────────────────────────────────────────────────────
+
+  Gold Correlation Matrix (60-day rolling):
+  Market              Corr Interpretation
+  ------------------------------------------------------------
+  silver           +0.581  moderate positive
+  platinum         +0.581  moderate positive
+  gdx              +0.591  moderate positive
+  gld              +0.593  moderate positive
+  dxy              -0.544  moderate inverse
+  eurusd           +0.221  weak relationship
+  usdjpy           -0.352  moderate inverse
+  usdchf           -0.251  weak relationship
+  audusd           +0.239  weak relationship
+  usdcnh           -0.453  moderate inverse
+  wti_oil          -0.559  moderate inverse
+  brent_oil        -0.559  moderate inverse
+  copper           +0.551  moderate positive
+  natgas           -0.277  weak relationship
+  us10y            -0.589  moderate inverse
+  us2y             -0.319  moderate inverse
+  tips             +0.525  moderate positive
+  sp500            +0.605  moderate positive
+  nasdaq           +0.592  moderate positive
+  vix              -0.509  moderate inverse
+  btc              +0.127  weak relationship
+  eth              +0.089  weak relationship
+
+  Lead-Lag Relationships (who leads gold?):
+    gld moves simultaneously with gold (corr=0.943)
+    silver moves simultaneously with gold (corr=0.837)
+    gdx moves simultaneously with gold (corr=0.785)
+    platinum moves simultaneously with gold (corr=0.741)
+    copper moves simultaneously with gold (corr=0.580)
+
+  *** CORRELATION BREAKDOWNS (unusual behavior) ***
+    btc: was 0.087, now 0.307 (z-score: 2.0)
+
+────────────────────────────────────────────────────────────────────────────────
+  4. STRATEGY PERFORMANCE
+────────────────────────────────────────────────────────────────────────────────
+
+  Cross-Market Strategies (12 active):
+    dxy_divergence                      [active]
+    silver_lead                         [active]
+    vix_spike                           [active]
+    copper_gold_ratio                   [active]
+    oil_gold_inflation                  [active]
+    btc_gold_flow                       [active]
+    real_yield                          [active]
+    asian_session_setup                 [active]
+    monday_gap                          [active]
+    round_number                        [active]
+    india_seasonal                      [active]
+    multi_market_momentum               [active]
+
+  Strategy Lab Hypotheses:
+  Name                             Dir   W   L    WR%      PnL Status
+  ----------------------------------------------------------------------
+  squeeze_momentum_long           LONG   1   0 100.0% $   +7.6 TESTING
+  squeeze_momentum_short         SHORT   2   2  50.0% $   +7.0 TESTING
+  triple_oversold_bounce          LONG   1   1  50.0% $   +5.4 TESTING
+  triple_overbought_fade         SHORT   0   0   0.0% $   +0.0 TESTING
+  ema_ribbon_pullback_long        LONG   1   0 100.0% $  +16.2 TESTING
+  ema_ribbon_pullback_short      SHORT   2   1  66.7% $   -0.3 TESTING
+  volume_breakout_long            LONG   0   0   0.0% $   +0.0 TESTING
+  volume_breakout_short          SHORT   0   0   0.0% $   +0.0 TESTING
+  macd_divergence_long            LONG   0   0   0.0% $   +0.0 TESTING
+  adx_trend_surge_long            LONG   1   1  50.0% $   +8.8 TESTING
+  adx_trend_surge_short          SHORT   4   3  57.1% $  +17.2 TESTING
+  round_number_bounce             LONG   0   1   0.0% $   -5.8 TESTING
+
+────────────────────────────────────────────────────────────────────────────────
+  5. NEW DISCOVERIES TODAY
+────────────────────────────────────────────────────────────────────────────────
+
+  Confirmed Patterns (passed 5+ tests):
+    multi_tf_bearish_confluence: TRUSTED (WR=87.5%, n=8)
+
+  Best 5-bar predictor: adx
+  Best 10-bar predictor: adx
+
+  Pre-Big-Move Analysis (200 events):
+    100% preceded by BB squeeze
+    Average volume spike on big move: 2.0x
+
+────────────────────────────────────────────────────────────────────────────────
+  6. INTER-MARKET PERFORMANCE
+────────────────────────────────────────────────────────────────────────────────
+
+  Market               Price
+  ------------------------------
+  gold               4465.50
+  silver               73.43
+  dxy                  99.54
+  wti_oil              96.06
+  vix                  16.09
+  us10y                 4.49
+  btc               65804.08
+  copper                6.49
+  sp500              7575.41
+  gdx                  85.53
+
+────────────────────────────────────────────────────────────────────────────────
+  7. STRATEGY LAB — Invention & Testing
+────────────────────────────────────────────────────────────────────────────────
+
+  Total Hypotheses: 12
+  Confirmed: 0  |  Promising: 0  |  Testing: 12  |  Rejected: 0
+
+  Mental Trades Open: 3
+
+────────────────────────────────────────────────────────────────────────────────
+  8. OANDA REAL-TIME TICK ANALYSIS
+────────────────────────────────────────────────────────────────────────────────
+
+  Total Ticks Today: 41337
+  Spikes Detected: 23
+  Spread Widenings: 16
+  Max Spread Seen: $1.4200
+  Avg Spread: $0.8325
+  Max Tick Velocity: 5.0 ticks/sec
+
+  Recent Spikes:
+    UP $2.16 at $4447.76 (2026-06-03 22:57:04.171908)
+    UP $2.14 at $4451.35 (2026-06-03 23:25:08.232570)
+    UP $2.11 at $4453.68 (2026-06-03 23:43:05.755392)
+    UP $2.02 at $4447.66 (2026-06-04 00:46:14.452707)
+    UP $2.02 at $4447.69 (2026-06-04 00:46:14.695573)
+
+────────────────────────────────────────────────────────────────────────────────
+  9. RECOMMENDATIONS — How to Improve
+────────────────────────────────────────────────────────────────────────────────
+
+  1. GOOD ACCURACY (100%) — Consider increasing confidence thresholds for higher-quality, fewer trades
+
+  2. STRONG PATTERN: 'multi_tf_bearish_confluence' has 88% win rate — consider promoting to primary strategy
+
+────────────────────────────────────────────────────────────────────────────────
+  10. TOMORROW'S OUTLOOK
+────────────────────────────────────────────────────────────────────────────────
+
+  Bias: NEUTRAL (balanced predictions)
+
+  Key Levels to Watch:
+    resistance: $4891.54
+    support: $4351.35
+    round_number: $4450.00
+
+  *** BB SQUEEZE ACTIVE on: 1h ***
+      → Big volatility expansion expected — be ready for breakout
+
+  The bot will continue learning overnight.
+  Next daily report: tomorrow at 10 PM EST.
+
+================================================================================
+  END OF DAILY REPORT
+================================================================================

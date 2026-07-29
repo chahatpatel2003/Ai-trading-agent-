@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-06-04T18:42:35.009653",
+  "records": [
+    {
+      "report_date": "2026-05-19",
+      "non_commercial_long": 211018,
+      "non_commercial_short": 51185,
+      "commercial_long": 69520,
+      "commercial_short": 261149,
+      "non_reportable_long": 47082,
+      "non_reportable_short": 15286,
+      "open_interest_total": 379325,
+      "non_commercial_net": 159833,
+      "commercial_net": -191629
+    },
+    {
+      "report_date": "2026-05-26",
+      "non_commercial_long": 200704,
+      "non_commercial_short": 46444,
+      "commercial_long": 74641,
+      "commercial_short": 260407,
+      "non_reportable_long": 47149,
+      "non_reportable_short": 15643,
+      "open_interest_total": 353489,
+      "non_commercial_net": 154260,
+      "commercial_net": -185766
+    }
+  ]
+}

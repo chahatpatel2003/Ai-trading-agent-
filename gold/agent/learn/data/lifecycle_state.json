@@ -1,0 +1,16 @@
+{
+  "daily_trade_count": 0,
+  "daily_live_count": 0,
+  "current_positions": 0,
+  "daily_pnl_pct": 0.0,
+  "weekly_pnl_pct": 0.0,
+  "manual_approvals": [],
+  "strategy_trade_counts": {
+    "real_yield": 117,
+    "round_number": 24,
+    "copper_gold_ratio": 62,
+    "multi_market_momentum": 7
+  },
+  "strategy_trades_since_demotion": {},
+  "last_saved": "2026-06-08 08:48:33.797030"
+}

@@ -1,0 +1,189 @@
+{
+  "evolutions": {
+    "real_yield": [
+      {
+        "strategy": "real_yield",
+        "timestamp": "2026-06-04T22:57:48.134583",
+        "before": {
+          "total": 9,
+          "wins": 6,
+          "losses": 3,
+          "expired": 0,
+          "win_rate": 0.667,
+          "total_pnl": 30.23
+        },
+        "diagnosis": [
+          "Losses had avg MFE of only +1.0 pts \u2014 signal was noise in losing conditions (wins had +14.5)",
+          "Strong win rate (67%) \u2014 promote to higher confidence"
+        ],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "PROMOTE"
+      },
+      {
+        "strategy": "real_yield",
+        "timestamp": "2026-06-05T17:03:07.837906",
+        "before": {
+          "total": 9,
+          "wins": 6,
+          "losses": 3,
+          "expired": 0,
+          "win_rate": 0.667,
+          "total_pnl": 30.23
+        },
+        "diagnosis": [
+          "Losses had avg MFE of only +1.0 pts \u2014 signal was noise in losing conditions (wins had +14.5)",
+          "Strong win rate (67%) \u2014 promote to higher confidence"
+        ],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "PROMOTE"
+      },
+      {
+        "strategy": "real_yield",
+        "timestamp": "2026-06-06T17:17:36.480525",
+        "before": {
+          "total": 9,
+          "wins": 6,
+          "losses": 3,
+          "expired": 0,
+          "win_rate": 0.667,
+          "total_pnl": 30.23
+        },
+        "diagnosis": [
+          "Losses had avg MFE of only +1.0 pts \u2014 signal was noise in losing conditions (wins had +14.5)",
+          "Strong win rate (67%) \u2014 promote to higher confidence"
+        ],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "PROMOTE"
+      },
+      {
+        "strategy": "real_yield",
+        "timestamp": "2026-06-07T19:12:43.073947",
+        "before": {
+          "total": 9,
+          "wins": 6,
+          "losses": 3,
+          "expired": 0,
+          "win_rate": 0.667,
+          "total_pnl": 30.23
+        },
+        "diagnosis": [
+          "Losses had avg MFE of only +1.0 pts \u2014 signal was noise in losing conditions (wins had +14.5)",
+          "Strong win rate (67%) \u2014 promote to higher confidence"
+        ],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "PROMOTE"
+      },
+      {
+        "strategy": "real_yield",
+        "timestamp": "2026-06-08T18:13:02.101070",
+        "before": {
+          "total": 9,
+          "wins": 6,
+          "losses": 3,
+          "expired": 0,
+          "win_rate": 0.667,
+          "total_pnl": 30.23
+        },
+        "diagnosis": [
+          "Losses had avg MFE of only +1.0 pts \u2014 signal was noise in losing conditions (wins had +14.5)",
+          "Strong win rate (67%) \u2014 promote to higher confidence"
+        ],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "PROMOTE"
+      }
+    ],
+    "multi_tf_bearish_confluence": [
+      {
+        "strategy": "multi_tf_bearish_confluence",
+        "timestamp": "2026-06-04T22:57:48.134903",
+        "before": {
+          "total": 6,
+          "wins": 5,
+          "losses": 1,
+          "expired": 0,
+          "win_rate": 0.833,
+          "total_pnl": 36.26
+        },
+        "diagnosis": [
+          "Losses stopped out fast (avg 2 bars) vs wins (15 bars) \u2014 entry timing issue",
+          "Strong win rate (83%) \u2014 promote to higher confidence"
+        ],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "PROMOTE"
+      },
+      {
+        "strategy": "multi_tf_bearish_confluence",
+        "timestamp": "2026-06-05T17:03:07.840288",
+        "before": {
+          "total": 19,
+          "wins": 9,
+          "losses": 10,
+          "expired": 0,
+          "win_rate": 0.474,
+          "total_pnl": -159.56
+        },
+        "diagnosis": [],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "MONITOR"
+      },
+      {
+        "strategy": "multi_tf_bearish_confluence",
+        "timestamp": "2026-06-06T17:17:36.482668",
+        "before": {
+          "total": 22,
+          "wins": 9,
+          "losses": 10,
+          "expired": 3,
+          "win_rate": 0.409,
+          "total_pnl": -159.56
+        },
+        "diagnosis": [],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "MONITOR"
+      },
+      {
+        "strategy": "multi_tf_bearish_confluence",
+        "timestamp": "2026-06-07T19:12:43.074553",
+        "before": {
+          "total": 23,
+          "wins": 9,
+          "losses": 10,
+          "expired": 4,
+          "win_rate": 0.391,
+          "total_pnl": -159.56
+        },
+        "diagnosis": [],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "MONITOR"
+      },
+      {
+        "strategy": "multi_tf_bearish_confluence",
+        "timestamp": "2026-06-08T18:13:02.102040",
+        "before": {
+          "total": 24,
+          "wins": 10,
+          "losses": 10,
+          "expired": 4,
+          "win_rate": 0.417,
+          "total_pnl": -136.42
+        },
+        "diagnosis": [],
+        "hypothesis": [],
+        "new_filters": [],
+        "action": "MONITOR"
+      }
+    ]
+  },
+  "learned_filters": {},
+  "evolved_confidence": {},
+  "last_saved": "2026-06-08T18:13:02.102060"
+}

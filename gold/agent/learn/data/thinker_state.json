@@ -1,0 +1,189 @@
+{
+  "strategy_regime_map": {
+    "real_yield": {
+      "deflation_fear": {
+        "wins": 0,
+        "losses": 0,
+        "expired": 3,
+        "total_pnl": 8.0,
+        "trades": 3
+      }
+    },
+    "multi_tf_bearish_confluence": {
+      "risk_on": {
+        "wins": 0,
+        "losses": 0,
+        "expired": 7,
+        "total_pnl": -67.97249999999894,
+        "trades": 7
+      },
+      "deflation_fear": {
+        "wins": 0,
+        "losses": 0,
+        "expired": 5,
+        "total_pnl": 54.3050000000012,
+        "trades": 5
+      },
+      "uncertainty": {
+        "wins": 0,
+        "losses": 0,
+        "expired": 3,
+        "total_pnl": 23.14392857142866,
+        "trades": 3
+      }
+    },
+    "unified_brain": {
+      "risk_on": {
+        "wins": 0,
+        "losses": 0,
+        "expired": 1,
+        "total_pnl": 12.6,
+        "trades": 1
+      }
+    },
+    "ema_ribbon_bull_pullback": {
+      "uncertainty": {
+        "wins": 0,
+        "losses": 0,
+        "expired": 1,
+        "total_pnl": -8.578380821411884,
+        "trades": 1
+      }
+    }
+  },
+  "confidence_modifiers": {
+    "multi_tf_bearish_confluence": {
+      "risk_on": -0.1,
+      "deflation_fear": 0.1,
+      "uncertainty": 0.1
+    }
+  },
+  "strategy_adjustments": {
+    "real_yield": [
+      {
+        "strategy": "real_yield",
+        "issue": "6/6 trades expired (100%)",
+        "diagnosis": [
+          "Trades are profitable on avg (+2.8 pts) but MFE was +9.7 \u2014 target could have been tighter to capture the move"
+        ],
+        "suggestion": [
+          "Reduce target to ~7 pts (70% of avg MFE)"
+        ],
+        "timestamp": "2026-06-04T17:00:40.290988"
+      },
+      {
+        "strategy": "real_yield",
+        "issue": "6/6 trades expired (100%)",
+        "diagnosis": [
+          "Trades are profitable on avg (+2.8 pts) but MFE was +9.7 \u2014 target could have been tighter to capture the move"
+        ],
+        "suggestion": [
+          "Reduce target to ~7 pts (70% of avg MFE)"
+        ],
+        "timestamp": "2026-06-05T17:03:07.830870"
+      },
+      {
+        "strategy": "real_yield",
+        "issue": "6/6 trades expired (100%)",
+        "diagnosis": [
+          "Trades are profitable on avg (+2.8 pts) but MFE was +9.7 \u2014 target could have been tighter to capture the move"
+        ],
+        "suggestion": [
+          "Reduce target to ~7 pts (70% of avg MFE)"
+        ],
+        "timestamp": "2026-06-06T17:17:36.478370"
+      },
+      {
+        "strategy": "real_yield",
+        "issue": "6/6 trades expired (100%)",
+        "diagnosis": [
+          "Trades are profitable on avg (+2.8 pts) but MFE was +9.7 \u2014 target could have been tighter to capture the move"
+        ],
+        "suggestion": [
+          "Reduce target to ~7 pts (70% of avg MFE)"
+        ],
+        "timestamp": "2026-06-07T19:12:43.073009"
+      },
+      {
+        "strategy": "real_yield",
+        "issue": "6/6 trades expired (100%)",
+        "diagnosis": [
+          "Trades are profitable on avg (+2.8 pts) but MFE was +9.7 \u2014 target could have been tighter to capture the move"
+        ],
+        "suggestion": [
+          "Reduce target to ~7 pts (70% of avg MFE)"
+        ],
+        "timestamp": "2026-06-08T18:13:02.100420"
+      }
+    ]
+  },
+  "lessons": [
+    {
+      "type": "parameter",
+      "lesson": "real_yield: Reduce target to ~7 pts (70% of avg MFE)",
+      "evidence": "6/6 trades expired (100%)",
+      "timestamp": "2026-06-04T17:00:40.291483"
+    },
+    {
+      "type": "parameter",
+      "lesson": "real_yield: Reduce target to ~7 pts (70% of avg MFE)",
+      "evidence": "6/6 trades expired (100%)",
+      "timestamp": "2026-06-05T17:03:07.831144"
+    },
+    {
+      "type": "regime",
+      "lesson": "In deflation_fear: favor multi_tf_bearish_confluence, avoid real_yield",
+      "evidence": "Best WR=0%, Worst WR=0%",
+      "timestamp": "2026-06-05T17:03:07.831188"
+    },
+    {
+      "type": "conflict",
+      "lesson": "Mixed signals today: LONG P&L=$+10.49, SHORT P&L=$+12.60. SHORT was correct \u2014 commit to one direction per regime",
+      "evidence": "regime=deflation_fear",
+      "timestamp": "2026-06-05T17:03:07.831230"
+    },
+    {
+      "type": "parameter",
+      "lesson": "real_yield: Reduce target to ~7 pts (70% of avg MFE)",
+      "evidence": "6/6 trades expired (100%)",
+      "timestamp": "2026-06-06T17:17:36.478609"
+    },
+    {
+      "type": "conflict",
+      "lesson": "Mixed signals today: LONG P&L=$+10.49, SHORT P&L=$+12.60. SHORT was correct \u2014 commit to one direction per regime",
+      "evidence": "regime=uncertainty",
+      "timestamp": "2026-06-06T17:17:36.478643"
+    },
+    {
+      "type": "parameter",
+      "lesson": "real_yield: Reduce target to ~7 pts (70% of avg MFE)",
+      "evidence": "6/6 trades expired (100%)",
+      "timestamp": "2026-06-07T19:12:43.073069"
+    },
+    {
+      "type": "conflict",
+      "lesson": "Mixed signals today: LONG P&L=$+10.49, SHORT P&L=$+12.60. SHORT was correct \u2014 commit to one direction per regime",
+      "evidence": "regime=uncertainty",
+      "timestamp": "2026-06-07T19:12:43.073085"
+    },
+    {
+      "type": "parameter",
+      "lesson": "real_yield: Reduce target to ~7 pts (70% of avg MFE)",
+      "evidence": "6/6 trades expired (100%)",
+      "timestamp": "2026-06-08T18:13:02.100456"
+    },
+    {
+      "type": "regime",
+      "lesson": "In uncertainty: favor multi_tf_bearish_confluence, avoid multi_tf_bearish_confluence",
+      "evidence": "Best WR=0%, Worst WR=0%",
+      "timestamp": "2026-06-08T18:13:02.100462"
+    },
+    {
+      "type": "conflict",
+      "lesson": "Mixed signals today: LONG P&L=$+10.49, SHORT P&L=$+12.60. SHORT was correct \u2014 commit to one direction per regime",
+      "evidence": "regime=uncertainty",
+      "timestamp": "2026-06-08T18:13:02.100467"
+    }
+  ],
+  "last_saved": "2026-06-08T18:13:02.100470"
+}

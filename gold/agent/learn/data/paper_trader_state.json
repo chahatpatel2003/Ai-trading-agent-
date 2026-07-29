@@ -1,0 +1,805 @@
+{
+  "equity": 0,
+  "trade_counter": 8,
+  "total_trades": 0,
+  "total_wins": 0,
+  "total_losses": 0,
+  "open_trades": {},
+  "closed_trades": [],
+  "regime_performance": {},
+  "missed_moves": [
+    {
+      "timestamp": "2026-06-06T01:54:49.978930",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T01:54:49.979683",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T02:46:21.977159",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T02:46:21.978116",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T04:34:26.643917",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T06:10:59.248762",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T07:21:50.478426",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T07:21:50.479991",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T09:07:58.421597",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T10:53:59.115840",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T10:53:59.117326",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T12:27:26.123980",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T12:27:26.125656",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.65% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.45% \u2014 bearish gold signal",
+        "Regime was deflation_fear \u2014 bearish for gold, should have been SHORT"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "deflation_fear"
+    },
+    {
+      "timestamp": "2026-06-06T15:29:28.585294",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T17:17:36.430830",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T17:17:36.432360",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T19:03:59.535929",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T19:03:59.537058",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T20:50:10.326984",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T22:36:43.302942",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-06T23:37:36.839905",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T00:54:01.739802",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T02:33:13.027307",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 163.95,
+      "avg_range": 38.78,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $164 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T02:33:13.035785",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 234.34,
+      "avg_range": 100.37,
+      "reasons_missed": [
+        "Had NO position \u2014 all strategies were blocked by confidence/risk gates",
+        "DXY rose +0.66% \u2014 clear SHORT signal ignored",
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [
+        "Lower minimum confidence from 71% to 65% for paper trading \u2014 need to take trades to learn"
+      ],
+      "question": "Why wasn't I in this $234 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:12:43.028036",
+      "timeframe": "5m",
+      "move_direction": "UP",
+      "move_size": 15.3,
+      "avg_range": 6.53,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $15 UP move on 5m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:12:43.028528",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 37.91,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:12:43.028747",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.39,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:17:46.844476",
+      "timeframe": "5m",
+      "move_direction": "UP",
+      "move_size": 18.25,
+      "avg_range": 6.71,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $18 UP move on 5m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:17:46.844924",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.06,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:17:46.845086",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.54,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:22:50.903134",
+      "timeframe": "5m",
+      "move_direction": "UP",
+      "move_size": 16.69,
+      "avg_range": 6.7,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $17 UP move on 5m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:22:50.903667",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.06,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:22:50.903896",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.54,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:27:56.986356",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.06,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:27:56.986562",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.54,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:33:15.579963",
+      "timeframe": "15m",
+      "move_direction": "UP",
+      "move_size": 21.19,
+      "avg_range": 10.57,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $21 UP move on 15m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:33:15.580232",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.17,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:33:15.580373",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.65,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:38:19.658567",
+      "timeframe": "15m",
+      "move_direction": "UP",
+      "move_size": 22.61,
+      "avg_range": 10.64,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $23 UP move on 15m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:38:19.658835",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.24,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:38:19.658969",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.72,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:44:12.424604",
+      "timeframe": "15m",
+      "move_direction": "UP",
+      "move_size": 25.41,
+      "avg_range": 10.78,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $25 UP move on 15m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:44:12.425057",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.38,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:44:12.425252",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.86,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:49:16.648804",
+      "timeframe": "5m",
+      "move_direction": "UP",
+      "move_size": 13.53,
+      "avg_range": 6.67,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $14 UP move on 5m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:49:16.649096",
+      "timeframe": "15m",
+      "move_direction": "UP",
+      "move_size": 26.53,
+      "avg_range": 10.85,
+      "reasons_missed": [
+        "Was holding SHORT (unified_brain) while market went UP \u2014 WRONG DIRECTION",
+        "VIX spiked +39.7% \u2014 should have been LONG gold",
+        "Regime was uncertainty \u2014 safe-haven buying, should have been LONG"
+      ],
+      "action_items": [
+        "Add regime/trend filter to unified_brain: don't go SHORT when higher TFs show UP trend"
+      ],
+      "question": "Why wasn't I in this $27 UP move on 15m?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:49:16.649435",
+      "timeframe": "4h",
+      "move_direction": "DOWN",
+      "move_size": 165.77,
+      "avg_range": 38.47,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $166 DOWN move on 4h?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-07T19:49:16.649641",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 231.52,
+      "avg_range": 96.95,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $232 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-08T13:26:23.585089",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 273.15,
+      "avg_range": 99.58,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $273 DOWN move on 1d?",
+      "regime": "uncertainty"
+    },
+    {
+      "timestamp": "2026-06-08T17:57:17.573550",
+      "timeframe": "1d",
+      "move_direction": "DOWN",
+      "move_size": 273.15,
+      "avg_range": 99.58,
+      "reasons_missed": [
+        "Yields rose +1.32% \u2014 bearish gold signal"
+      ],
+      "action_items": [],
+      "question": "Why wasn't I in this $273 DOWN move on 1d?",
+      "regime": "uncertainty"
+    }
+  ],
+  "invented_strategies": [],
+  "last_saved": "2026-06-08T18:13:02.098492"
+}

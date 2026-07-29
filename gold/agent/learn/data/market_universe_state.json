@@ -1,0 +1,1796 @@
+{
+  "regime_history": [
+    {
+      "timestamp": "2026-06-05T22:31:37.220262",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T22:36:47.602172",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T22:41:57.739283",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T22:47:10.236675",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T22:52:23.268442",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T22:57:35.411648",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:02:45.641054",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:07:56.177434",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:13:06.975456",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:18:18.346208",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:23:30.918322",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:28:44.745115",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:33:55.205053",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:39:08.341484",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:44:22.025261",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:49:34.544227",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:54:47.176848",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-05T23:59:57.855261",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:05:08.035276",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:10:17.710221",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:15:30.487744",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:20:42.900752",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:25:54.373452",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:31:05.075347",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:36:16.892001",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:41:29.749067",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:46:45.683317",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:51:58.689267",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T00:57:14.853585",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:02:25.252283",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:13:49.888227",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:19:05.926116",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:24:18.127164",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:29:29.002327",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:34:42.806643",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:39:54.369836",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:45:05.664302",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:50:17.272501",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T01:55:28.476901",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:00:41.061378",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:00:46.057099",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:05:58.052245",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:11:09.710357",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:16:19.942972",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:21:32.720598",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:26:46.923397",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:31:56.936816",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:37:07.869837",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:42:17.318913",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T02:47:28.627362",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T03:53:15.707549",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T04:47:46.240169",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T04:52:57.106733",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T04:58:04.877248",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:03:14.387032",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:08:24.412368",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:13:32.067836",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:18:41.679921",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:23:50.772741",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:28:59.784661",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:34:09.473568",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:39:17.016628",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:44:25.760469",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:49:34.872981",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T05:54:45.874767",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T06:46:19.619352",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T08:34:23.038944",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T10:10:55.038538",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T11:21:46.633994",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T13:07:54.261984",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T14:53:54.503681",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T16:22:13.527426",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T16:27:23.212213",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T18:02:35.963378",
+      "regime": "deflation_fear",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 0.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-06-06T19:29:25.268054",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-06T21:17:33.133623",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-06T23:03:55.119496",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T00:50:06.477424",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T02:36:39.095605",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T02:36:44.729206",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T03:37:33.171260",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T04:53:58.623566",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T05:59:57.752009",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T10:07:28.389419",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T13:44:25.003242",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T13:58:31.601039",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T14:10:28.615819",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T15:48:58.609765",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:08:33.226064",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:12:42.288978",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:17:46.069141",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:22:50.310491",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:27:56.344610",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:33:14.954136",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:38:18.999879",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:44:11.719616",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-07T23:49:15.921445",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-08T06:54:38.787031",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-08T17:10:25.467311",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    },
+    {
+      "timestamp": "2026-06-08T21:57:15.603008",
+      "regime": "uncertainty",
+      "scores": {
+        "risk_on": 0.0,
+        "risk_off": 2.0,
+        "inflation_fear": 0.0,
+        "deflation_fear": 2.0,
+        "uncertainty": 2.5
+      }
+    }
+  ],
+  "correlation_matrix": {
+    "gold": {
+      "gold": 1.0,
+      "silver": 0.5557,
+      "platinum": 0.5521,
+      "gdx": 0.5704,
+      "gld": 0.5802,
+      "dxy": -0.532,
+      "eurusd": 0.3029,
+      "usdjpy": -0.3324,
+      "usdchf": -0.3054,
+      "audusd": 0.3386,
+      "usdcnh": -0.3404,
+      "wti_oil": -0.4542,
+      "brent_oil": -0.4506,
+      "copper": 0.5296,
+      "natgas": -0.0334,
+      "us10y": -0.5522,
+      "us2y": -0.2417,
+      "tips": 0.5417,
+      "sp500": 0.5766,
+      "nasdaq": 0.5622,
+      "vix": -0.4975,
+      "btc": 0.3292,
+      "eth": 0.343
+    },
+    "silver": {
+      "gold": 0.5557,
+      "silver": 1.0,
+      "platinum": 0.5305,
+      "gdx": 0.5497,
+      "gld": 0.5583,
+      "dxy": -0.5059,
+      "eurusd": 0.2776,
+      "usdjpy": -0.3085,
+      "usdchf": -0.2797,
+      "audusd": 0.3128,
+      "usdcnh": -0.3214,
+      "wti_oil": -0.4375,
+      "brent_oil": -0.4335,
+      "copper": 0.511,
+      "natgas": -0.0346,
+      "us10y": -0.5317,
+      "us2y": -0.2311,
+      "tips": 0.5215,
+      "sp500": 0.5558,
+      "nasdaq": 0.543,
+      "vix": -0.4808,
+      "btc": 0.3152,
+      "eth": 0.3304
+    },
+    "platinum": {
+      "gold": 0.5521,
+      "silver": 0.5305,
+      "platinum": 1.0,
+      "gdx": 0.545,
+      "gld": 0.5561,
+      "dxy": -0.5212,
+      "eurusd": 0.3169,
+      "usdjpy": -0.3404,
+      "usdchf": -0.3198,
+      "audusd": 0.3494,
+      "usdcnh": -0.3382,
+      "wti_oil": -0.4344,
+      "brent_oil": -0.4321,
+      "copper": 0.505,
+      "natgas": -0.0271,
+      "us10y": -0.5287,
+      "us2y": -0.2344,
+      "tips": 0.5186,
+      "sp500": 0.5507,
+      "nasdaq": 0.5349,
+      "vix": -0.4728,
+      "btc": 0.3186,
+      "eth": 0.328
+    },
+    "gdx": {
+      "gold": 0.5704,
+      "silver": 0.5497,
+      "platinum": 0.545,
+      "gdx": 1.0,
+      "gld": 0.5732,
+      "dxy": -0.5217,
+      "eurusd": 0.2903,
+      "usdjpy": -0.3211,
+      "usdchf": -0.2926,
+      "audusd": 0.3261,
+      "usdcnh": -0.3323,
+      "wti_oil": -0.449,
+      "brent_oil": -0.4452,
+      "copper": 0.5242,
+      "natgas": -0.0346,
+      "us10y": -0.5458,
+      "us2y": -0.2379,
+      "tips": 0.5354,
+      "sp500": 0.5703,
+      "nasdaq": 0.5567,
+      "vix": -0.4929,
+      "btc": 0.3242,
+      "eth": 0.3391
+    },
+    "gld": {
+      "gold": 0.5802,
+      "silver": 0.5583,
+      "platinum": 0.5561,
+      "gdx": 0.5732,
+      "gld": 1.0,
+      "dxy": -0.5396,
+      "eurusd": 0.315,
+      "usdjpy": -0.3428,
+      "usdchf": -0.3177,
+      "audusd": 0.3502,
+      "usdcnh": -0.3471,
+      "wti_oil": -0.4566,
+      "brent_oil": -0.4535,
+      "copper": 0.5319,
+      "natgas": -0.0317,
+      "us10y": -0.5554,
+      "us2y": -0.2443,
+      "tips": 0.5448,
+      "sp500": 0.5794,
+      "nasdaq": 0.5641,
+      "vix": -0.499,
+      "btc": 0.3324,
+      "eth": 0.3448
+    },
+    "dxy": {
+      "gold": -0.532,
+      "silver": -0.5059,
+      "platinum": -0.5212,
+      "gdx": -0.5217,
+      "gld": -0.5396,
+      "dxy": 1.0,
+      "eurusd": -0.4195,
+      "usdjpy": 0.4221,
+      "usdchf": 0.4244,
+      "audusd": -0.4441,
+      "usdcnh": 0.3782,
+      "wti_oil": 0.4177,
+      "brent_oil": 0.42,
+      "copper": -0.479,
+      "natgas": 0.0059,
+      "us10y": 0.5105,
+      "us2y": 0.2391,
+      "tips": -0.501,
+      "sp500": -0.5262,
+      "nasdaq": -0.5027,
+      "vix": 0.4417,
+      "btc": -0.3221,
+      "eth": -0.3152
+    },
+    "eurusd": {
+      "gold": 0.3029,
+      "silver": 0.2776,
+      "platinum": 0.3169,
+      "gdx": 0.2903,
+      "gld": 0.315,
+      "dxy": -0.4195,
+      "eurusd": 1.0,
+      "usdjpy": -0.4312,
+      "usdchf": -0.4775,
+      "audusd": 0.4707,
+      "usdcnh": -0.3215,
+      "wti_oil": -0.2363,
+      "brent_oil": -0.2466,
+      "copper": 0.2575,
+      "natgas": 0.0376,
+      "us10y": -0.293,
+      "us2y": -0.1631,
+      "tips": 0.2879,
+      "sp500": 0.2907,
+      "nasdaq": 0.2604,
+      "vix": -0.2236,
+      "btc": 0.2142,
+      "eth": 0.1778
+    },
+    "usdjpy": {
+      "gold": -0.3324,
+      "silver": -0.3085,
+      "platinum": -0.3404,
+      "gdx": -0.3211,
+      "gld": -0.3428,
+      "dxy": 0.4221,
+      "eurusd": -0.4312,
+      "usdjpy": 1.0,
+      "usdchf": 0.4375,
+      "audusd": -0.4366,
+      "usdcnh": 0.3139,
+      "wti_oil": 0.2599,
+      "brent_oil": 0.2679,
+      "copper": -0.2882,
+      "natgas": -0.0262,
+      "us10y": 0.3207,
+      "us2y": 0.1691,
+      "tips": -0.315,
+      "sp500": -0.3223,
+      "nasdaq": -0.2953,
+      "vix": 0.2557,
+      "btc": -0.2238,
+      "eth": -0.1958
+    },
+    "usdchf": {
+      "gold": -0.3054,
+      "silver": -0.2797,
+      "platinum": -0.3198,
+      "gdx": -0.2926,
+      "gld": -0.3177,
+      "dxy": 0.4244,
+      "eurusd": -0.4775,
+      "usdjpy": 0.4375,
+      "usdchf": 1.0,
+      "audusd": -0.4777,
+      "usdcnh": 0.3257,
+      "wti_oil": 0.2382,
+      "brent_oil": 0.2487,
+      "copper": -0.2594,
+      "natgas": -0.0385,
+      "us10y": 0.2955,
+      "us2y": 0.1648,
+      "tips": -0.2903,
+      "sp500": -0.293,
+      "nasdaq": -0.2622,
+      "vix": 0.2251,
+      "btc": -0.2164,
+      "eth": -0.1793
+    },
+    "audusd": {
+      "gold": 0.3386,
+      "silver": 0.3128,
+      "platinum": 0.3494,
+      "gdx": 0.3261,
+      "gld": 0.3502,
+      "dxy": -0.4441,
+      "eurusd": 0.4707,
+      "usdjpy": -0.4366,
+      "usdchf": -0.4777,
+      "audusd": 1.0,
+      "usdcnh": -0.3341,
+      "wti_oil": -0.2645,
+      "brent_oil": -0.2738,
+      "copper": 0.2915,
+      "natgas": 0.0323,
+      "us10y": -0.3269,
+      "us2y": -0.1759,
+      "tips": 0.3212,
+      "sp500": 0.327,
+      "nasdaq": 0.2972,
+      "vix": -0.2566,
+      "btc": 0.2321,
+      "eth": 0.1992
+    },
+    "usdcnh": {
+      "gold": -0.3404,
+      "silver": -0.3214,
+      "platinum": -0.3382,
+      "gdx": -0.3323,
+      "gld": -0.3471,
+      "dxy": 0.3782,
+      "eurusd": -0.3215,
+      "usdjpy": 0.3139,
+      "usdchf": 0.3257,
+      "audusd": -0.3341,
+      "usdcnh": 1.0,
+      "wti_oil": 0.267,
+      "brent_oil": 0.2705,
+      "copper": -0.3031,
+      "natgas": -0.0056,
+      "us10y": 0.3272,
+      "us2y": 0.1592,
+      "tips": -0.3212,
+      "sp500": -0.3347,
+      "nasdaq": -0.3158,
+      "vix": 0.2763,
+      "btc": -0.2132,
+      "eth": -0.2013
+    },
+    "wti_oil": {
+      "gold": -0.4542,
+      "silver": -0.4375,
+      "platinum": -0.4344,
+      "gdx": -0.449,
+      "gld": -0.4566,
+      "dxy": 0.4177,
+      "eurusd": -0.2363,
+      "usdjpy": 0.2599,
+      "usdchf": 0.2382,
+      "audusd": -0.2645,
+      "usdcnh": 0.267,
+      "wti_oil": 1.0,
+      "brent_oil": 0.3546,
+      "copper": -0.417,
+      "natgas": 0.0267,
+      "us10y": 0.4347,
+      "us2y": 0.19,
+      "tips": -0.4264,
+      "sp500": -0.4539,
+      "nasdaq": -0.4428,
+      "vix": 0.3919,
+      "btc": -0.2589,
+      "eth": -0.27
+    },
+    "brent_oil": {
+      "gold": -0.4506,
+      "silver": -0.4335,
+      "platinum": -0.4321,
+      "gdx": -0.4452,
+      "gld": -0.4535,
+      "dxy": 0.42,
+      "eurusd": -0.2466,
+      "usdjpy": 0.2679,
+      "usdchf": 0.2487,
+      "audusd": -0.2738,
+      "usdcnh": 0.2705,
+      "wti_oil": 0.3546,
+      "brent_oil": 1.0,
+      "copper": -0.413,
+      "natgas": 0.0243,
+      "us10y": 0.4314,
+      "us2y": 0.1899,
+      "tips": -0.4232,
+      "sp500": -0.4499,
+      "nasdaq": -0.4379,
+      "vix": 0.3873,
+      "btc": -0.2584,
+      "eth": -0.2678
+    },
+    "copper": {
+      "gold": 0.5296,
+      "silver": 0.511,
+      "platinum": 0.505,
+      "gdx": 0.5242,
+      "gld": 0.5319,
+      "dxy": -0.479,
+      "eurusd": 0.2575,
+      "usdjpy": -0.2882,
+      "usdchf": -0.2594,
+      "audusd": 0.2915,
+      "usdcnh": -0.3031,
+      "wti_oil": -0.417,
+      "brent_oil": -0.413,
+      "copper": 1.0,
+      "natgas": -0.0343,
+      "us10y": -0.5067,
+      "us2y": -0.2195,
+      "tips": 0.497,
+      "sp500": 0.53,
+      "nasdaq": 0.5183,
+      "vix": -0.4591,
+      "btc": 0.2995,
+      "eth": 0.315
+    },
+    "natgas": {
+      "gold": -0.0334,
+      "silver": -0.0346,
+      "platinum": -0.0271,
+      "gdx": -0.0346,
+      "gld": -0.0317,
+      "dxy": 0.0059,
+      "eurusd": 0.0376,
+      "usdjpy": -0.0262,
+      "usdchf": -0.0385,
+      "audusd": 0.0323,
+      "usdcnh": -0.0056,
+      "wti_oil": 0.0267,
+      "brent_oil": 0.0243,
+      "copper": -0.0343,
+      "natgas": 1.0,
+      "us10y": 0.0314,
+      "us2y": 0.0076,
+      "tips": -0.0307,
+      "sp500": -0.0355,
+      "nasdaq": -0.0387,
+      "vix": 0.0354,
+      "btc": -0.0117,
+      "eth": -0.0202
+    },
+    "us10y": {
+      "gold": -0.5522,
+      "silver": -0.5317,
+      "platinum": -0.5287,
+      "gdx": -0.5458,
+      "gld": -0.5554,
+      "dxy": 0.5105,
+      "eurusd": -0.293,
+      "usdjpy": 0.3207,
+      "usdchf": 0.2955,
+      "audusd": -0.3269,
+      "usdcnh": 0.3272,
+      "wti_oil": 0.4347,
+      "brent_oil": 0.4314,
+      "copper": -0.5067,
+      "natgas": 0.0314,
+      "us10y": 1.0,
+      "us2y": 0.2317,
+      "tips": -0.5185,
+      "sp500": -0.5517,
+      "nasdaq": -0.5377,
+      "vix": 0.4758,
+      "btc": -0.3155,
+      "eth": -0.3283
+    },
+    "us2y": {
+      "gold": -0.2417,
+      "silver": -0.2311,
+      "platinum": -0.2344,
+      "gdx": -0.2379,
+      "gld": -0.2443,
+      "dxy": 0.2391,
+      "eurusd": -0.1631,
+      "usdjpy": 0.1691,
+      "usdchf": 0.1648,
+      "audusd": -0.1759,
+      "usdcnh": 0.1592,
+      "wti_oil": 0.19,
+      "brent_oil": 0.1899,
+      "copper": -0.2195,
+      "natgas": 0.0076,
+      "us10y": 0.2317,
+      "us2y": 1.0,
+      "tips": -0.2273,
+      "sp500": -0.2401,
+      "nasdaq": -0.2315,
+      "vix": 0.204,
+      "btc": -0.1427,
+      "eth": -0.1434
+    },
+    "tips": {
+      "gold": 0.5417,
+      "silver": 0.5215,
+      "platinum": 0.5186,
+      "gdx": 0.5354,
+      "gld": 0.5448,
+      "dxy": -0.501,
+      "eurusd": 0.2879,
+      "usdjpy": -0.315,
+      "usdchf": -0.2903,
+      "audusd": 0.3212,
+      "usdcnh": -0.3212,
+      "wti_oil": -0.4264,
+      "brent_oil": -0.4232,
+      "copper": 0.497,
+      "natgas": -0.0307,
+      "us10y": -0.5185,
+      "us2y": -0.2273,
+      "tips": 1.0,
+      "sp500": 0.5411,
+      "nasdaq": 0.5274,
+      "vix": -0.4666,
+      "btc": 0.3095,
+      "eth": 0.322
+    },
+    "sp500": {
+      "gold": 0.5766,
+      "silver": 0.5558,
+      "platinum": 0.5507,
+      "gdx": 0.5703,
+      "gld": 0.5794,
+      "dxy": -0.5262,
+      "eurusd": 0.2907,
+      "usdjpy": -0.3223,
+      "usdchf": -0.293,
+      "audusd": 0.327,
+      "usdcnh": -0.3347,
+      "wti_oil": -0.4539,
+      "brent_oil": -0.4499,
+      "copper": 0.53,
+      "natgas": -0.0355,
+      "us10y": -0.5517,
+      "us2y": -0.2401,
+      "tips": 0.5411,
+      "sp500": 1.0,
+      "nasdaq": 0.5631,
+      "vix": -0.4986,
+      "btc": 0.3274,
+      "eth": 0.3428
+    },
+    "nasdaq": {
+      "gold": 0.5622,
+      "silver": 0.543,
+      "platinum": 0.5349,
+      "gdx": 0.5567,
+      "gld": 0.5641,
+      "dxy": -0.5027,
+      "eurusd": 0.2604,
+      "usdjpy": -0.2953,
+      "usdchf": -0.2622,
+      "audusd": 0.2972,
+      "usdcnh": -0.3158,
+      "wti_oil": -0.4428,
+      "brent_oil": -0.4379,
+      "copper": 0.5183,
+      "natgas": -0.0387,
+      "us10y": -0.5377,
+      "us2y": -0.2315,
+      "tips": 0.5274,
+      "sp500": 0.5631,
+      "nasdaq": 1.0,
+      "vix": -0.4889,
+      "btc": 0.3161,
+      "eth": 0.3344
+    },
+    "vix": {
+      "gold": -0.4975,
+      "silver": -0.4808,
+      "platinum": -0.4728,
+      "gdx": -0.4929,
+      "gld": -0.499,
+      "dxy": 0.4417,
+      "eurusd": -0.2236,
+      "usdjpy": 0.2557,
+      "usdchf": 0.2251,
+      "audusd": -0.2566,
+      "usdcnh": 0.2763,
+      "wti_oil": 0.3919,
+      "brent_oil": 0.3873,
+      "copper": -0.4591,
+      "natgas": 0.0354,
+      "us10y": 0.4758,
+      "us2y": 0.204,
+      "tips": -0.4666,
+      "sp500": -0.4986,
+      "nasdaq": -0.4889,
+      "vix": 1.0,
+      "btc": -0.2789,
+      "eth": -0.296
+    },
+    "btc": {
+      "gold": 0.3292,
+      "silver": 0.3152,
+      "platinum": 0.3186,
+      "gdx": 0.3242,
+      "gld": 0.3324,
+      "dxy": -0.3221,
+      "eurusd": 0.2142,
+      "usdjpy": -0.2238,
+      "usdchf": -0.2164,
+      "audusd": 0.2321,
+      "usdcnh": -0.2132,
+      "wti_oil": -0.2589,
+      "brent_oil": -0.2584,
+      "copper": 0.2995,
+      "natgas": -0.0117,
+      "us10y": -0.3155,
+      "us2y": -0.1427,
+      "tips": 0.3095,
+      "sp500": 0.3274,
+      "nasdaq": 0.3161,
+      "vix": -0.2789,
+      "btc": 1.0,
+      "eth": 0.1954
+    },
+    "eth": {
+      "gold": 0.343,
+      "silver": 0.3304,
+      "platinum": 0.328,
+      "gdx": 0.3391,
+      "gld": 0.3448,
+      "dxy": -0.3152,
+      "eurusd": 0.1778,
+      "usdjpy": -0.1958,
+      "usdchf": -0.1793,
+      "audusd": 0.1992,
+      "usdcnh": -0.2013,
+      "wti_oil": -0.27,
+      "brent_oil": -0.2678,
+      "copper": 0.315,
+      "natgas": -0.0202,
+      "us10y": -0.3283,
+      "us2y": -0.1434,
+      "tips": 0.322,
+      "sp500": 0.3428,
+      "nasdaq": 0.3344,
+      "vix": -0.296,
+      "btc": 0.1954,
+      "eth": 1.0
+    }
+  },
+  "lead_lag": {
+    "gld": {
+      "best_lag": 0,
+      "correlation": 0.9446
+    },
+    "silver": {
+      "best_lag": 0,
+      "correlation": 0.8399
+    },
+    "gdx": {
+      "best_lag": 0,
+      "correlation": 0.7888
+    },
+    "platinum": {
+      "best_lag": 0,
+      "correlation": 0.7465
+    },
+    "copper": {
+      "best_lag": 0,
+      "correlation": 0.5939
+    },
+    "dxy": {
+      "best_lag": 0,
+      "correlation": -0.3717
+    },
+    "natgas": {
+      "best_lag": 1,
+      "correlation": 0.3024
+    },
+    "usdjpy": {
+      "best_lag": 4,
+      "correlation": 0.2966
+    },
+    "sp500": {
+      "best_lag": 0,
+      "correlation": 0.2823
+    },
+    "eurusd": {
+      "best_lag": 0,
+      "correlation": 0.2791
+    },
+    "nasdaq": {
+      "best_lag": 0,
+      "correlation": 0.2753
+    },
+    "usdchf": {
+      "best_lag": 0,
+      "correlation": -0.2715
+    },
+    "audusd": {
+      "best_lag": -6,
+      "correlation": 0.2269
+    },
+    "us10y": {
+      "best_lag": 0,
+      "correlation": -0.2199
+    },
+    "eth": {
+      "best_lag": 3,
+      "correlation": -0.2051
+    },
+    "tips": {
+      "best_lag": 0,
+      "correlation": 0.1878
+    },
+    "btc": {
+      "best_lag": -6,
+      "correlation": 0.1846
+    },
+    "vix": {
+      "best_lag": 0,
+      "correlation": -0.1767
+    },
+    "us2y": {
+      "best_lag": 10,
+      "correlation": -0.164
+    },
+    "brent_oil": {
+      "best_lag": 0,
+      "correlation": -0.1632
+    },
+    "usdcnh": {
+      "best_lag": -7,
+      "correlation": -0.156
+    },
+    "wti_oil": {
+      "best_lag": 0,
+      "correlation": -0.1318
+    }
+  },
+  "last_updated": "2026-06-08T22:13:04.393395",
+  "rmt_diagnostics": {
+    "q": 0.3833,
+    "N": 23,
+    "T": 60,
+    "mp_lower": 0.1451,
+    "mp_upper": 2.6216,
+    "n_signal": 2,
+    "n_noise": 21,
+    "signal_eigenvalues": [
+      10.4005,
+      2.6259
+    ],
+    "cleaned_signal_eigenvalues": [
+      9.9745,
+      1.673
+    ],
+    "shrinkage_ratios": [
+      0.959,
+      0.6371
+    ],
+    "noise_eigenvalue_avg": 0.4749,
+    "noise_fill_value": 0.5406,
+    "total_variance_preserved": 23.0
+  }
+}

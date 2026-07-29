@@ -1,0 +1,72 @@
+{
+  "last_updated": "2026-05-21",
+  "gold_price_current": 4539.72,
+
+  "macro_drivers": {
+    "fed_policy": {
+      "current_stance": "hawkish_hold",
+      "rate_hike_probability_2026": "55%+ chance of 25bps hike",
+      "rate_cut_probability_2026": "67% chance of NO cuts",
+      "new_fed_chair": "Kevin Warsh (since May 16, 2026)",
+      "political_pressure": "Administration pressuring for rate cuts",
+      "impact_on_gold": "Hawkish Fed = headwind for gold (higher rates = stronger USD = gold pressure)"
+    },
+    "inflation": {
+      "us_cpi_april_2026": "3.8% YoY (highest since mid-2023)",
+      "trend": "rising due to oil/energy costs",
+      "impact_on_gold": "Higher inflation = bullish for gold as inflation hedge"
+    },
+    "geopolitics": {
+      "us_iran_conflict": "Ongoing, 3rd week — peace deal negotiations stalling",
+      "iran_uranium_directive": "Supreme Leader ordered uranium stays on Iranian soil",
+      "impact_on_gold": "Conflict escalation = bullish for gold (safe haven), peace = bearish"
+    },
+    "japan_boj": {
+      "rate": "0.75% (held steady April 2026)",
+      "yen_intervention": "Spent ~$54.7B defending yen, USD/JPY broke 160",
+      "inflation_outlook": "Raised FY2026 core CPI forecast to 2.8% from 1.9%",
+      "reserves": "$1.16T in FX reserves",
+      "impact_on_gold": "Yen weakness + BOJ tightening = mixed for gold"
+    }
+  },
+
+  "demand_supply": {
+    "jewelry_demand_q1_2026": "Down 31% — high prices crushing retail demand",
+    "etf_investment_q1_2026": "Down 64% — massive drop in investment demand",
+    "central_bank_buying": "Strong at ~585 tonnes/quarter average",
+    "net_assessment": "Institutional/CB demand strong, retail/ETF demand collapsed at $4500+ prices"
+  },
+
+  "analyst_forecasts": {
+    "jp_morgan": {
+      "2026_average": "$5,243/oz",
+      "q4_2026_target": "$6,300/oz",
+      "note": "Lowered from $5,708 citing softer near-term demand"
+    },
+    "goldman_sachs": {
+      "2026_target": "$5,400/oz"
+    },
+    "wells_fargo": {
+      "year_end_range": "$6,100-$6,300/oz"
+    },
+    "consensus_median": "$4,916/oz for 2026 average",
+    "may_2026_expected_range": "$4,380-$5,100"
+  },
+
+  "key_themes": [
+    "Fed hawkishness vs inflation reality creating tug-of-war",
+    "US-Iran conflict is the swing factor — peace = gold drops, escalation = gold spikes",
+    "Central banks still buying aggressively despite high prices",
+    "Retail/ETF demand destroyed — only institutional demand holding",
+    "New Fed Chair Warsh under political pressure = policy uncertainty",
+    "All major banks forecast gold HIGHER by year-end ($5,000-$6,300)"
+  ],
+
+  "trading_implications": {
+    "bias": "Long-term bullish, short-term choppy/ranging",
+    "key_risk": "US-Iran peace deal would trigger sharp sell-off to $4,380 area",
+    "key_catalyst_bull": "Fed rate cut signal or conflict escalation → spike to $4,800+",
+    "key_catalyst_bear": "Peace deal + hawkish Fed → drop to $4,380-$4,450",
+    "current_range": "$4,450 support — $4,570 resistance"
+  }
+}

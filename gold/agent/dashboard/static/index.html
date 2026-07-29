@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XAUUSD Brain</title>
+<link rel="stylesheet" href="/static/style.css?v=6">
+</head>
+<body>
+
+<!-- ─── TOP BAR ─── -->
+<header id="topbar">
+  <div class="topbar-left">
+    <h1>XAUUSD Brain</h1>
+    <span id="status-dot" class="dot off"></span>
+    <span id="status-text">Checking...</span>
+  </div>
+  <div class="topbar-center">
+    <span class="price" id="live-price">--</span>
+    <span class="sub" id="live-spread"></span>
+  </div>
+  <div class="topbar-right">
+    <span class="sub" id="tick-count">-- ticks</span>
+    <button id="bot-toggle" onclick="toggleBot()">Start</button>
+  </div>
+</header>
+
+<!-- ─── MAIN GRID ─── -->
+<main>
+
+  <!-- OANDA ACCOUNT + RISK (full width) -->
+  <section class="card card-full" id="card-risk">
+    <h2>OANDA Practice Account <span class="badge" id="oanda-id"></span></h2>
+    <div class="risk-grid">
+      <div class="risk-stat">
+        <div class="risk-label">Balance</div>
+        <div class="risk-value" id="rm-balance">--</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">Unrealized P&L</div>
+        <div class="risk-value" id="rm-unrealized">--</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">NAV</div>
+        <div class="risk-value" id="rm-nav">--</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">Total P&L</div>
+        <div class="risk-value" id="rm-pnl">--</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">Open Trades</div>
+        <div class="risk-value" id="rm-trades">--</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">Margin Used</div>
+        <div class="risk-value" id="rm-margin">--</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">R:R Min</div>
+        <div class="risk-value">1:2.5</div>
+      </div>
+      <div class="risk-stat">
+        <div class="risk-label">Status</div>
+        <div class="risk-value" id="rm-status">--</div>
+      </div>
+    </div>
+    <div class="risk-progress" id="paper-progress"></div>
+  </section>
+
+  <!-- ROW 1 -->
+  <section class="card" id="card-patterns">
+    <h2>Pattern Learning</h2>
+    <p class="sub" id="obs-count"></p>
+    <div id="patterns-list" class="kv-list"></div>
+  </section>
+
+  <section class="card" id="card-strategies">
+    <h2>Strategy Lab</h2>
+    <table id="strategies-table">
+      <thead><tr>
+        <th>Strategy</th><th>Dir</th><th>Sig</th><th>W</th><th>L</th><th>PnL</th><th>Status</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="card" id="card-predictions">
+    <h2>Predictions</h2>
+    <div id="pred-accuracy" class="kv-list"></div>
+    <h3>Active</h3>
+    <div id="pred-active"></div>
+    <h3>Resolved</h3>
+    <div id="pred-resolved"></div>
+  </section>
+
+  <!-- ROW 2 -->
+  <section class="card" id="card-market">
+    <h2>Cross-Market <span class="badge" id="rmt-badge"></span></h2>
+    <div class="row-split">
+      <div>
+        <h3>Gold Correlations (RMT)</h3>
+        <div id="corr-bars"></div>
+      </div>
+      <div>
+        <h3>Lead-Lag</h3>
+        <div id="lead-lag-list" class="kv-list"></div>
+        <h3>Regime</h3>
+        <div id="regime-info"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="card" id="card-intel">
+    <h2>Intelligence</h2>
+    <div class="intel-grid">
+      <div>
+        <h3>COT Positioning</h3>
+        <div id="cot-info" class="kv-list"></div>
+      </div>
+      <div>
+        <h3>Calendar</h3>
+        <div id="calendar-info"></div>
+      </div>
+      <div>
+        <h3>Levels & Sessions</h3>
+        <div id="levels-info" class="kv-list"></div>
+      </div>
+      <div>
+        <h3>Lifecycle</h3>
+        <div id="lifecycle-info" class="kv-list"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRACKED MENTAL TRADES (full width) -->
+  <section class="card card-full" id="card-mental">
+    <h2>Tracked Mental Trades <span class="badge" id="mental-stats"></span></h2>
+    <h3>Open Positions</h3>
+    <div id="mental-open"></div>
+    <h3>Resolved</h3>
+    <div id="mental-resolved"></div>
+  </section>
+
+  <!-- ROW 3 -->
+  <section class="card card-full" id="card-trades">
+    <h2>Trade Log <span class="badge" id="trade-count"></span></h2>
+    <div id="trades-list"></div>
+  </section>
+
+  <section class="card card-full" id="card-logs">
+    <h2>Live Log</h2>
+    <pre id="log-output"></pre>
+  </section>
+
+</main>
+
+<script src="/static/app.js?v=6"></script>
+</body>
+</html>

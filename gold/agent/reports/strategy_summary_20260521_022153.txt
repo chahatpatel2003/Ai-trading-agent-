@@ -1,0 +1,113 @@
+======================================================================
+GOLD TRADING BOT — STRATEGY COMPARISON REPORT
+Generated: 2026-05-21T02:21:53.499198
+======================================================================
+
+DISCLAIMER: Past performance does NOT guarantee future results. Backtest results are hypothetical and subject to overfitting. Paper trading results may not survive live trading conditions. See 'Why Paper Profits May Not Survive Live Trading' section.
+
+----------------------------------------------------------------------
+STRATEGY RANKING (by robustness score, NOT raw return)
+----------------------------------------------------------------------
+
+  #1  momentum
+      Robustness Score : 0.3895
+      Sharpe Ratio     : 0.847
+      Max Drawdown     : 0.0%
+      Profit Factor    : inf
+      Stability (R²)   : 0.3896
+      Total Trades     : 1
+
+  #2  trend_following
+      Robustness Score : 0.1967
+      Sharpe Ratio     : -0.847
+      Max Drawdown     : 0.18%
+      Profit Factor    : 0.0
+      Stability (R²)   : 0.6174
+      Total Trades     : 1
+
+  #3  mean_reversion
+      Robustness Score : 0.1346
+      Sharpe Ratio     : -0.847
+      Max Drawdown     : 0.24%
+      Profit Factor    : 0.0
+      Stability (R²)   : 0.3087
+      Total Trades     : 1
+
+  #4  ensemble
+      Robustness Score : 0.1234
+      Sharpe Ratio     : -0.847
+      Max Drawdown     : 0.25%
+      Profit Factor    : 0.0
+      Stability (R²)   : 0.5175
+      Total Trades     : 1
+
+----------------------------------------------------------------------
+WHY EACH STRATEGY MAY FAIL
+----------------------------------------------------------------------
+
+  trend_following:
+    Whipsaws in ranging markets. Moving averages lag inherently. Gold can range for months, generating many small losses. Regime filter helps but cannot predict transitions.
+
+  mean_reversion:
+    Gets crushed in strong trends. 'The market can stay irrational longer than you can stay solvent.' Volatility filter limits trade count. The concept of 'mean' shifts during regime changes.
+
+  breakout:
+    False breakouts are extremely common. Low trade frequency limits statistical power. News-driven spikes look like breakouts but reverse. Asian range may be too tight or too wide.
+
+  momentum:
+    All indicators lag — by the time they confirm, the move may be over. RSI stays overbought/oversold for extended periods in strong trends. MACD generates constant whipsaws in choppy markets.
+
+  ensemble:
+    Only as good as its components. Weighting by recent Sharpe is itself a form of curve-fitting. If all strategies fail in the same regime, the ensemble fails too. Added complexity may not help.
+
+
+WHY PAPER PROFITS MAY NOT SURVIVE LIVE TRADING
+================================================
+
+1. SLIPPAGE IS WORSE IN REALITY
+   Paper trading assumes constant slippage. Real slippage varies wildly
+   during news events, low liquidity, and market gaps. Gold can gap
+   significantly on geopolitical events.
+
+2. SPREAD WIDENS UNPREDICTABLY
+   Retail spreads on XAUUSD can widen to 5-10x normal during news releases,
+   market opens, and low-liquidity periods (e.g., around Christmas/New Year).
+
+3. EXECUTION LATENCY
+   Paper trading executes instantly. Real orders take time to fill, and
+   prices can move against you during that time. This is especially true
+   for strategies that depend on precise entry levels.
+
+4. FILL QUALITY VARIES
+   Market orders may not fill at the expected price. Limit orders may not
+   fill at all. Partial fills create sizing problems.
+
+5. DATA FEED ISSUES
+   Missing bars, delayed data, and price feed disconnections are common.
+   Paper trading uses clean historical data; live data is messy.
+
+6. PSYCHOLOGICAL FACTORS
+   Fear and greed cause traders to override their system. You may cut
+   winners too early, hold losers too long, or skip signals after a
+   losing streak.
+
+7. REGIME CHANGES
+   The market regime during your backtest/paper period may not persist.
+   A strategy optimized for trending markets will fail in range-bound markets.
+
+8. OVERFITTING
+   Despite walk-forward testing and Monte Carlo analysis, some degree of
+   overfitting to historical patterns is inevitable. The future WILL differ
+   from the past.
+
+9. BLACK SWAN EVENTS
+   Gold responds violently to geopolitical crises, central bank announcements,
+   and systemic financial events that are inherently unpredictable.
+
+10. BROKER-SPECIFIC RISKS
+    Real brokers may reject orders, change margin requirements, have outages,
+    or modify trading conditions without warning.
+
+RECOMMENDATION: Start live trading with 25-50% of intended position size.
+Monitor for at least 2-4 weeks at reduced size. Only scale up if live results
+match paper trading within the configured tolerance.
