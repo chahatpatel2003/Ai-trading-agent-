@@ -56,3 +56,8 @@ AI-trading-agent/
 ├── nq/system-part-1/
 └── pine-scripts/
 
+## External Market Data
+
+Dataset documentation, representative samples, schemas and source scripts are available in [`data/external`](data/external/README.md).
+
+The complete NAS100, NQ and raw XAU/USD datasets remain on external storage because of their size.

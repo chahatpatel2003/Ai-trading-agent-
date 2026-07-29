@@ -1,0 +1,44 @@
+{
+  "file": "2016_06.parquet",
+  "year": 2016,
+  "month": 6,
+  "checks": {
+    "file_exists": true,
+    "file_size_positive": true,
+    "parquet_opens": true,
+    "has_rows": true,
+    "timestamp_col": true,
+    "bid_col": true,
+    "ask_col": true,
+    "timestamp_is_datetime": true,
+    "bid_numeric": true,
+    "ask_numeric": true,
+    "timestamps_exist": true,
+    "no_null_bid_ask": true,
+    "prices_positive_finite": true,
+    "timestamps_sorted": true,
+    "no_duplicate_rows": true,
+    "bid_le_ask": true,
+    "first_in_month": true,
+    "last_in_month": true,
+    "download_complete": true
+  },
+  "metrics": {
+    "file_size_bytes": 35563263,
+    "file_size_human": "33.92 MB",
+    "row_count": 2187670,
+    "first_timestamp": "2016-06-01 06:00:00.579000+00:00",
+    "last_timestamp": "2016-06-30 20:00:00.135000+00:00",
+    "min_bid": 4177.658,
+    "max_bid": 4546.082,
+    "min_ask": 4178.802,
+    "max_ask": 4546.509,
+    "average_spread": 0.8518103306257334
+  },
+  "quality": {
+    "duplicate_timestamp_count": 0,
+    "crossed_bid_gt_ask": 0
+  },
+  "errors": [],
+  "status": "PASS"
+}
