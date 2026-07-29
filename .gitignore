@@ -4,9 +4,9 @@ nq/topstep/outputs/
 .DS_Store
 
 # Large external market datasets
-data/external/**/raw/
-data/external/**/full/
-data/external/**/.venv/
+data/**/raw/
+data/**/full/
+data/**/.venv/
 *.bi5
 *.bi5.nodata
 *.nodata

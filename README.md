@@ -58,6 +58,6 @@ AI-trading-agent/
 
 ## External Market Data
 
-Dataset documentation, representative samples, schemas and source scripts are available in [`data/external`](data/external/README.md).
+Dataset documentation, representative samples, schemas and source scripts are available in [`data`](data/README.md).
 
 The complete NAS100, NQ and raw XAU/USD datasets remain on external storage because of their size.
