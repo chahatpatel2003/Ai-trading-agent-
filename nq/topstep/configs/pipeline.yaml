@@ -1,0 +1,21 @@
+# NQ market-data pipeline parameters (Phase 2B).
+nq_pipeline:
+  bar_seconds: 60
+
+  trade_filters:
+    min_size: 1              # drop trades below this size (and nonpositive px)
+    median_window: 50        # rolling-median window for the bad-tick filter
+    max_jump_pct: 0.005      # drop trades > 0.5% away from the PRIOR rolling
+                             # median (shifted by 1 trade — strictly causal)
+
+  quote_filters:
+    max_spread_ticks: 25     # spreads wider than this are excluded from the
+                             # spread mean (kept out of stats, counted as wide);
+                             # crossed quotes (ask < bid) are dropped entirely
+
+  roll:
+    # Front month = quarterly outright (H/M/U/Z) with the highest PRIOR-SESSION
+    # volume; once rolled forward, never rolls back. The first session of a
+    # requested window uses the volume of the trade session before the window
+    # (one extra read) — never its own session's volume.
+    quarterly_months: "HMUZ"

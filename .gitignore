@@ -1,1 +1,3 @@
 *.zip
+nq/topstep/outputs/
+*.pkl

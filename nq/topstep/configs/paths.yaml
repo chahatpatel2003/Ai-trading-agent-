@@ -1,0 +1,40 @@
+# Data locations. All data under these roots is READ-ONLY — the code base
+# enforces that nothing ever writes, renames, moves, or deletes under a root.
+data_roots:
+  nq:
+    root: "/Volumes/T9/nq data"
+    datasets:
+      mbp1:
+        path: "raw/mbp1"
+        pattern: "*.parquet"
+        kind: "mbp1"            # Databento MBP-1 (top-of-book quotes + trades interleaved)
+        ts_col: "ts_event"      # exchange event time (UTC ns); ts_recv also present (pandas index)
+        notes: >
+          Contains ALL NQ-complex instruments: outright expiries (NQH4...),
+          calendar spreads (NQH4-NQM4), and far-dated months. Must filter to
+          front-month outright before research use.
+      trades:
+        path: "raw/trades"
+        pattern: "*.parquet"
+        kind: "trades"
+        ts_col: "ts_event"
+        notes: "Trade prints only, same symbol-mix caveat as mbp1."
+  gc:
+    root: "/Volumes/T9/gc"
+    datasets:
+      ohlcv_1m:
+        path: "."
+        pattern: "gc_*.parquet"
+        kind: "ohlcv_1m"
+        ts_col: "ts_event"      # bar OPEN time (UTC). Bar info is only known at open + 1min.
+        notes: >
+          Databento continuous contract GC.v.0 (volume-rolled), 1-minute bars.
+          gc_2024_jan.parquet is a subset of gc_2024.parquet (known overlap).
+
+# Where generated artifacts go (inventories, audit reports). Must never be
+# under a data root — validated at config load.
+outputs_dir: "outputs"
+
+# Full-scan size threshold for the inventory scanner: files larger than this
+# are scanned via parquet metadata / row-group statistics only.
+full_scan_max_bytes: 300000000
