@@ -1,0 +1,28 @@
+# Instrument reference data. Economics live in config, never hardcoded.
+instruments:
+  default_root: NQ
+  # Single-digit contract years (e.g. "NQH4") are resolved as year_base + digit.
+  year_base: 2020
+  specs:
+    NQ:
+      root: NQ
+      description: "E-mini Nasdaq-100 futures"
+      exchange: GLBX
+      currency: USD
+      point_value: 20.0
+      tick_size: 0.25
+      tick_value: 5.0
+      commission_per_side: 0.85
+      cycle_months: [H, M, U, Z]   # Mar, Jun, Sep, Dec
+      expiry_rule: third_friday
+    MNQ:
+      root: MNQ
+      description: "Micro E-mini Nasdaq-100 futures"
+      exchange: GLBX
+      currency: USD
+      point_value: 2.0
+      tick_size: 0.25
+      tick_value: 0.5
+      commission_per_side: 0.25
+      cycle_months: [H, M, U, Z]
+      expiry_rule: third_friday

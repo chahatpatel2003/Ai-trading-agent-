@@ -1,0 +1,23 @@
+# Validation gauntlet: out-of-sample split, stress grid, Monte-Carlo, and the
+# acceptance thresholds. Train on 2021-2024, validate on 2025-2026.
+validation:
+  train_start: "2021-01-01"
+  train_end: "2024-12-31"
+  test_start: "2025-01-01"
+  test_end: "2026-12-31"
+  embargo_days: 3
+  walk_train_months: 12
+  walk_test_months: 3
+  walk_step_months: 3
+  monte_carlo_runs: 2000
+  monte_carlo_seed: 12345
+  slippage_stress: [1.0, 2.0, 3.0]
+  commission_stress: [1.0, 1.5]
+  min_trades: 30
+  min_oos_trades: 10
+  max_blowup_prob: 0.10
+  min_walk_forward_positive_frac: 0.50
+  min_positive_years: 2
+  dsr_threshold: 0.90
+  lockbox_start: null
+  lockbox_end: null

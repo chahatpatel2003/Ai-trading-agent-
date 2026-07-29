@@ -1,0 +1,13 @@
+# CME equity-index Globex session model (all times exchange-local = America/New_York).
+# Globex opens 18:00 ET and the session is dated to the next calendar day, hence
+# the +6h trading-day offset (18:00 ET + 6h -> 00:00 next day).
+sessions:
+  timezone: America/New_York
+  trading_day_offset_hours: 6
+  rth_start: "09:30"
+  rth_end: "16:00"
+  windows:
+    - { name: ASIA,   start: "18:00", end: "03:00" }
+    - { name: LONDON, start: "03:00", end: "09:30" }
+    - { name: NY_AM,  start: "09:30", end: "12:00" }
+    - { name: NY_PM,  start: "12:00", end: "16:00" }
