@@ -1,4 +1,0 @@
-# Developer profile: verbose logging, real T9 data root (inherited from base).
-logging:
-  level: DEBUG
-  format: console
